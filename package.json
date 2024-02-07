@@ -1,9 +1,0 @@
-{
-  "name": "tech-news",
-  "packageManager": "yarn@4.1.0",
-  "dependencies": {
-    "node-fetch": "^3.3.2",
-    "rss-parser": "^3.13.0"
-  },
-  "type": "module"
-}

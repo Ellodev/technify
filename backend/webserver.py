@@ -1,8 +1,10 @@
 # Import Flask and Json
 from flask import Flask, jsonify
+from flask_cors import CORS
 import json
 # Create an instance of Flask
 app = Flask(__name__)
+CORS(app)  # Apply CORS to all routes
 
 # Define a route for the home page
 @app.route("/")

@@ -31,7 +31,9 @@ for feed_url in feed_urls:
             "categories": [category['term'] for category in entry.get('tags', [])],
             "pubDate": entry.get("published", "Unknown"),
             "media_content": entry.get("media_content", [{}])[0].get("url", "No image"),
-            "media_credit": entry.get("media_credit", "Unknown")
+            "media_credit": entry.get("media_credit", "Unknown"),
+            "title": entry.title,
+            "element_id": element_id
         }
         # Append the article to the list
         articles.append(article)

@@ -33,13 +33,24 @@ export default function News() {
     fetchData();
   }, []);
 
+  const handleClick = (link: string) => {
+    if (link) {
+      window.open(link, '_blank'); // Opens the link in a new tab
+      // Alternatively, you can use window.location.href = link; to open in the same tab
+    }
+  };
+
   return (
     <div className="flex flex-row flex-wrap min-h-screen items-center justify-center">
-      <h1>Tech News Feed</h1>
       {data ? (
         data.map((element) => (
-          <div key={element.id} className="m-4 bg-slate-600 w-96 rounded-md flex items-center flex-col justify-center">
-            {element.media_content !== "No image" ? (
+          <div
+            key={element.id}
+            className="m-4 w-96 rounded-md flex items-center flex-col justify-center"
+            onClick={() => handleClick(element.link)}
+            style={{ cursor: 'pointer' }}
+          >
+            {element.media_content !== 'No image' && (
               <Image
                 className="rounded-md m-2"
                 src={element.media_content}
@@ -47,21 +58,12 @@ export default function News() {
                 height={300}
                 alt={`Image for: ${element.title}`}
               />
-            ) : (
-              <Image
-                className="rounded-md m-2"
-                src="https://images.unsplash.com/photo-1709456136012-59707ec6217d?q=80&w=1375&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt={`Image for: ${element.title}`}
-                width={500}
-                height={300}
-              />
             )}
+
             <div>
-              <p className="text-lg">{element.title}</p>
-              <p>Author: {element.author}</p>
-              <p>Source: {element.source}</p>
-              <a href={element.link} target="_blank" rel="noopener noreferrer">{element.link}</a>
-              <p>{element.pubDate}</p>
+              <p className="text-lg font-bold">{element.title}</p>
+              <p className="font-extralight">Source: {element.source}</p>
+              <p className="font-extralight">{element.pubDate}</p>
             </div>
           </div>
         ))

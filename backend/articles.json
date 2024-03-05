@@ -1,20 +1,326 @@
 [
     {
         "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/yunos-payments-orchestration-valuation-fintech/",
+        "author": "Christine Hall",
+        "description": "<p>The company launched its payments orchestration product in 2022 and provides over 300 payment methods with fraud detection capabilities, one-click checkout and advanced smart routing technology.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Fintech",
+            "Startups",
+            "Venture",
+            "DST Global Partners",
+            "Juan Pablo Ortega",
+            "payment orchestration",
+            "Yuno"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 13:00:54 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "2-year-old LatAm fintech Yuno reaches $150M valuation with backing from DST, Tiger, a16z",
+        "element_id": 102
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/macpaws-new-app-helps-you-remove-redundant-photos-from-your-iphone/",
+        "author": "Ivan Mehta",
+        "description": "<p>MacPaw, which makes Mac and iOS apps, has released a new iPhone app called CleanMyPhone, which helps users free up storage by removing duplicate photos and cleaning up other unwanted images. The app is divided into three main tabs: declutter, organize, and network. Declutter detects and scans your photos to find duplicates, screenshots, screen recordings, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Apps"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 13:00:37 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "MacPaw\u2019s new app helps you remove redundant photos from your iPhone",
+        "element_id": 103
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
+        "author": "Frederic Lardinois",
+        "description": "<p>Cycode is a well-funded startup that offers an end-to-end application security posture management platform &#8212; that is, a tool that continuously scans code (and the libraries it relies on) for potential security vulnerabilities throughout the software development lifecycle and then helps remediate those issues. Today, the company announced that it has acquired Bearer, a Static [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Enterprise",
+            "acquisition",
+            "Bearer",
+            "cycode",
+            "SAST"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 13:00:05 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Cycode acquires Bearer to accelerate its move into AI-enhanced security remediation",
+        "element_id": 104
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/axonius-a-specialist-in-cyber-asset-managment-secures-200m-at-a-flat-2-6b-valuation/",
+        "author": "Ingrid Lunden",
+        "description": "<p>Axonius, one of the bigger players in the world of enterprise asset management &#8212; understanding and monitoring the digital assets and infrastructure that make up an organization&#8217;s network &#8212; has raised $200 million more in funding to expand its business on the heels of the company&#8217;s growth. The company, now nearly five years on from [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Enterprise",
+            "Security",
+            "Axonius"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:58:09 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Axonius, a specialist in cyber asset managment, secures $200M at a flat $2.6B valuation",
+        "element_id": 105
+    },
+    {
+        "source": "Wired",
+        "link": "https://www.wired.com/story/six-months-after-new-york-banned-airbnb-new-jersey/",
+        "author": "Amanda Hoover",
+        "description": "New York placed strict restrictions on short-term rentals last year. Rents still remain high, and some former hosts are frustrated. Meanwhile, Airbnb rentals in New Jersey are booming.",
+        "categories": [
+            "Business",
+            "Business / Policy and Net Neutrality",
+            "airbnb",
+            "Travel",
+            "New York City",
+            "housing",
+            "No Vacancies"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:42:00 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "6 Months After New York Banned Airbnb, New Jersey Is Doing Great",
+        "element_id": 52
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/nothings-budget-phone-2a-hits-pre-order-at-349/",
+        "author": "Brian Heater",
+        "description": "<p>The much-teased and oft-leaked Nothing Phone (2a) is now officially official, just under a week after it made its limited debut at the company\u2019s MWC after party. Nothing\u2019s third phone is the first that goes directly after the mid-tier/budget space, with a starting price of $349. While preorders open today, there\u2019s an important caveat in [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Gaming",
+            "Hardware",
+            "mwc",
+            "mwc 2024",
+            "nothing",
+            "nothing phone",
+            "nothing phone 2a",
+            "smartphones"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:30:20 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Nothing\u2019s budget Phone (2a) hits preorder at $349",
+        "element_id": 106
+    },
+    {
+        "source": "Technology | The Guardian",
+        "link": "https://www.theguardian.com/technology/2024/mar/05/nothing-phone-2a-review-standout-budget-android-battery-life",
+        "author": "Samuel Gibbs Consumer technology editor",
+        "description": "<p>Funky design, fun software, decent performance and long battery life provide a lot of phone for the money</p><p>London-based tech firm Nothing\u2019s latest Android attempts to shake up the budget phone market with something a little more interesting.</p><p>Costing from \u00a3319 (\u20ac329/A$529) the Phone 2a aims to take the cool design and intrigue that made its higher-end models stand out and package it up into something cheaper but still novel, sits alongside the <a href=\"https://www.theguardian.com/technology/2023/jul/14/nothing-phone-2-review-novel-mobile-is-more-than-just-flashing-lights\">full-fat Phone 2</a> costing \u00a3579.</p><p><strong>Screen:</strong> 6.7in 120Hz FHD+ OLED (394ppi)</p><p><strong>Processor:</strong> MediaTek Dimensity 7200 Pro</p><p><strong>RAM:</strong> 8 or 12GB</p><p><strong>Storage:</strong> 128 or 256GB</p><p><strong>Operating system:</strong> Nothing OS 2.5 (Android 14)</p><p><strong>Camera:</strong> 50MP main and ultrawide, 32MP selfie</p><p><strong>Connectivity:</strong> 5G, eSIM, wifi 6, NFC, Bluetooth 5.3 and GNSS</p><p><strong>Water resistance:</strong> IP54 (splash resistant)</p><p><strong>Dimensions:</strong> 162 x 76.3 x 8.9mm</p><p><strong>Weight:</strong> 190g</p> <a href=\"https://www.theguardian.com/technology/2024/mar/05/nothing-phone-2a-review-standout-budget-android-battery-life\">Continue reading...</a>",
+        "categories": [
+            "Smartphones",
+            "Android",
+            "Mobile phones",
+            "Technology"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:30:01 GMT",
+        "media_content": "https://i.guim.co.uk/img/media/f8211195937c0426535776503521e33ed2794170/421_457_4593_2756/master/4593.jpg?width=140&quality=85&auto=format&fit=max&s=964496e1af40be9bb6e0ae00df40c4b4",
+        "media_credit": [
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: Samuel Gibbs/The Guardian"
+            },
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: Samuel Gibbs/The Guardian"
+            }
+        ],
+        "title": "Nothing Phone 2a review: a standout budget Android",
+        "element_id": 35
+    },
+    {
+        "source": "Wired",
+        "link": "https://www.wired.com/review/nothing-phone-2a/",
+        "author": "Julian Chokkattu",
+        "description": "I had zero problems covering a major mobile trade show with this $350 Android smartphone from Nothing.",
+        "categories": [
+            "Gear",
+            "Gear / Reviews",
+            "Gear / Products / Phones",
+            "Shopping",
+            "review",
+            "Reviews",
+            "phones",
+            "smartphones",
+            "Android",
+            "Product Review"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:30:00 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Nothing Phone (2a) Review: The New Budget Standard",
+        "element_id": 53
+    },
+    {
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/technology-68479242",
+        "author": "Unknown",
+        "description": "The factory, near Berlin, has been the subject of protests by eco activists, who deny involvement.",
+        "categories": [],
+        "pubDate": "Tue, 05 Mar 2024 12:24:02 GMT",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Tesla plant halts production after suspected arson",
+        "element_id": 1
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/this-swedish-startup-wants-to-reduce-the-cost-and-controversy-around-stem-cells-production/",
+        "author": "Mike Butcher",
+        "description": "<p>With the news yesterday that \u201cmini organs\u201d have been grown for the first time using human stem cells, this futuristic area of bio-medicine is clearly accelerating by leaps and bounds. However, harvesting stem cells is a controversial process, since a major method involves harvesting during pregnancy. Now a Swedish startup has raised VC investment to [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Biotech & Health",
+            "Startups",
+            "biotech",
+            "stem cells"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:19:27 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "This Swedish startup wants to reduce the cost, and controversy, around stem cells production",
+        "element_id": 107
+    },
+    {
+        "source": "Technology | The Guardian",
+        "link": "https://www.theguardian.com/music/2024/mar/05/david-bowie-internet-alien-digital-music",
+        "author": "Eamonn Forde",
+        "description": "<p>Bowie\u2019s 1999 album Hours\u2026 was the first to go on sale online before hitting regular stores \u2013 and his experimentation caused horror in the music industry</p><p>It is far from his best album, and not even his best album of the 1990s, but Hours... is David Bowie\u2019s most significant album that decade. Not because of the music, however, but how it was released: the first album by a major artist on a major label to emerge as a download before it arrived physically.</p><p>Writing about the album in August 1999 ahead of its September release, Rolling Stone called Hours\u2026 a \u201ccyber-coup\u201d: a continuation of Bowie\u2019s fascination with releasing music online, which he started with the Telling Lies single in 1996. He had also enthusiastically embraced webcasting and created his own internet service provider with BowieNet in 1998 \u201cI couldn\u2019t be more pleased to have the opportunity of moving the music industry closer to the process of making digital downloads available as the norm and not the exception,\u201d is how Bowie explained the Hours\u2026 release at the time. \u201cWe are all aware that broadband opportunities are not yet available to the overwhelming majority of people, and therefore expect the success of this experiment to be measured in hundreds and not thousands of downloads. However, just as colour television broadcasts and film content on home video tapes were required first steps to cause their industries to expand consumer use, I am hopeful that this small step will lead to larger leaps by myself and others ultimately giving consumers greater choices and easier access to the music they enjoy.\u201d</p> <a href=\"https://www.theguardian.com/music/2024/mar/05/david-bowie-internet-alien-digital-music\">Continue reading...</a>",
+        "categories": [
+            "David Bowie",
+            "Music",
+            "Pop and rock",
+            "Digital music and audio",
+            "Downloads",
+            "Internet",
+            "Technology",
+            "Culture",
+            "Books"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 12:00:01 GMT",
+        "media_content": "https://i.guim.co.uk/img/media/f8c49220fa07f2c1d88106b3a57eff672821514c/0_83_2000_1200/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=58c718418d425e5328682976bef3750a",
+        "media_credit": [
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: Kevin Frayer/AP"
+            },
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: Kevin Frayer/AP"
+            }
+        ],
+        "title": "\u2018The internet is an alien life form\u2019: how David Bowie created a market for digital music",
+        "element_id": 31
+    },
+    {
+        "source": "Technology | The Guardian",
+        "link": "https://www.theguardian.com/technology/2024/mar/05/techscape-open-source-software-cryptocurrency",
+        "author": "Alex Hern",
+        "description": "<p>Apple has been fined a whopping \u20ac1.8bn by the EU, but it still claims it\u2019s done nothing wrong. Plus, what happens when open source software gets into the wrong hands of some crypto fans</p><p><strong>\u2022 <a href=\"https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vqkHXqakTSxrykj9mrdACFo11SPMvm9ONAti2JcHBqUgcduObToxycReEYHcTAh6nov_u_7l464yKkl5CZpPeg-CqG3ueb-8UiDZ4dOkhK_xu6BZysaGtGOA-w2_0KTqLsMBLqZrcGelEg-7T5C6DRfMSsX1Wcyrv2RlHjbzIGx0ePxMD7meIXmznkqCFxtrflV_YvxDV9cqXgzdq7c2-9qYTW0MyIMCG7p9sc7wIKCg/3ha/N7031ZxvS8Cv2AmB8PHP-g/h27/towm4HqYM1UtQe3kzAkaoAWT_zh9HyZuTvPyJCk6JeE\">Don\u2019t get TechScape delivered to your inbox? Sign up for the full article here</a></strong></p><p>The tech industry is one of the most valuable sectors on the planet, but it ultimately rests on the unpaid labour of an alarmingly small amount of hobbyists.</p><p>That reliance is the blessing, and the curse, of open source software \u2013 coding projects put up on the internet for anyone to use, freely, in their own work. Some open source software solves simple problems elegantly enough that no one wants to redo the work unnecessarily; others tackle complex tasks that few have ever attempted.</p><p><em>the most consequential figures in the tech world are half guys like steve jobs and bill gates and half some guy named ronald who maintains a unix tool called \u2018runk\u2019 which stands for Ronald\u2019s Universal Number Kounter and handles all math for every machine on earth</em></p><p><em>A project called tea.xyz promised people they could \u201cget rewards for [their] open source contributions\u201d, complete with a flashy website describing how it would \u201cenhance the sustainability of open-source software\u201d.</em></p><p><em>So far, it\u2019s achieved the exact opposite. Promising to reward open source contributors with crypto tokens, the project asked users to verify their access to open source projects by merging in a YAML file containing their crypto wallet address.</em></p><p><em>The fine is nearly four times higher than expected in a move by the European Commission to show it will act decisively on tech companies who abuse their dominant position in the market for phones and online services.</em></p><p><em>The European competition commissioner, Margrethe Vestager, said a smaller fine would have been nothing more than the equivalent of \u201ca parking fine\u201d and was designed to act as \u201ca deterrent\u201d to such practices for Apple and others.</em></p><p><em>If a developer sells physical goods, serves ads in their app, or just shares an app for free, they don\u2019t pay Apple anything.</em></p><p><em>When it comes to doing business, not everyone\u2019s going to agree on the best deal. But it sure is hard to beat free. But free isn\u2019t enough for Spotify.</em></p> <a href=\"https://www.theguardian.com/technology/2024/mar/05/techscape-open-source-software-cryptocurrency\">Continue reading...</a>",
+        "categories": [
+            "Technology",
+            "Open source",
+            "Internet",
+            "Apps",
+            "Computing",
+            "Software",
+            "Cryptocurrencies",
+            "E-commerce",
+            "Spotify",
+            "European Union",
+            "Europe"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 11:50:01 GMT",
+        "media_content": "https://i.guim.co.uk/img/media/56e60d5034ecdee30a6660d74211bc551d209c7e/0_131_6486_3892/master/6486.jpg?width=140&quality=85&auto=format&fit=max&s=d4d7cf04f4cfb8ea51d86f6d97aec985",
+        "media_credit": [
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: alexsl/Getty Images"
+            },
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: alexsl/Getty Images"
+            }
+        ],
+        "title": "How much does Spotify really pay Apple?",
+        "element_id": 32
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/new-report-confirms-europes-tech-investment-doldrums-but-there-are-signs-of-life/",
+        "author": "Mike Butcher",
+        "description": "<p>Europe is suffering from a big hangover after the tech investment party of the 2020-2021 period. That said, compared to pre-pandemic levels, VC investment in European startups is up, historically speaking, and reached $60 billion, according to a new report. However, the anomaly of the surge in investment over the pandemic stands in marked contrast [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Venture",
+            "venture capital"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 10:08:04 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "New report confirms Europe\u2019s tech investment doldrums, but there are signs of life",
+        "element_id": 108
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/remotepass-which-helps-companies-onboard-manage-pay-and-retain-remote-workers-raises-5-5m/",
+        "author": "Tage Kene-Okafor",
+        "description": "<p>As remote work becomes increasingly prevalent, organizations globally are adapting, especially regarding onboarding procedures for new employees and navigating cross-border payment complexities.\u00a0This new age of work has led to a surge in demand for startups that provide human resources (HR), payroll and compliance tools to help businesses hire remotely. RemotePass, one such business out of [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Startups",
+            "Work",
+            "212 VC",
+            "212 venture capital",
+            "africa",
+            "MENA",
+            "North Africa",
+            "remote work",
+            "RemotePass"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 09:04:02 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "RemotePass, which helps companies onboard, manage, pay and retain remote workers, raises $5.5M",
+        "element_id": 109
+    },
+    {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2024/03/05/deel-acquires-payspace-500m-arr/",
+        "author": "Tage Kene-Okafor",
+        "description": "<p>HR startup Deel said it is acquiring Africa's PaySpace in a deal that marks its largest acquisition to date.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "categories": [
+            "Fintech",
+            "Startups",
+            "Venture",
+            "africa",
+            "Deel",
+            "hr"
+        ],
+        "pubDate": "Tue, 05 Mar 2024 08:19:23 +0000",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Deel acquires Africa\u2019s PaySpace, says it\u2019s crossed $500M in ARR",
+        "element_id": 110
+    },
+    {
+        "source": "TechCrunch",
         "link": "https://techcrunch.com/2024/03/04/multiverse-computing/",
         "author": "Ingrid Lunden",
-        "description": "<p>We&#8217;re still years away from seeing physical quantum computers break into the market with any scale and reliability, but don&#8217;t give up on deep tech. The market for high-level quantum computer science &#8212; which applies quantum principles to manage complex computations in areas like finance and artificial intelligence &#8212; appears to be quickening its pace. [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "description": "<p>We&#8217;re still years away from seeing physical quantum computers break into the market with any scale and reliability, but don&#8217;t give up on deep tech just yet. The market for high-level quantum computer science &#8212; which applies quantum principles to manage complex computations in areas like finance and artificial intelligence &#8212; appears to be quickening [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
         "categories": [
             "AI",
             "Enterprise",
-            "multiverse computing",
             "quantum computing"
         ],
         "pubDate": "Tue, 05 Mar 2024 07:33:15 +0000",
         "media_content": "No image",
         "media_credit": "Unknown",
-        "title": "Multiverse helped bank quants speed up their work; now it\u2019s targeting LLM leviathans",
-        "element_id": 102
+        "title": "Multiverse raises $27M for quantum software targeting LLM leviathans",
+        "element_id": 111
     },
     {
         "source": "TechCrunch",
@@ -29,8 +335,8 @@
         "pubDate": "Tue, 05 Mar 2024 07:00:34 +0000",
         "media_content": "No image",
         "media_credit": "Unknown",
-        "title": "With $16M in fresh funds, Whistleblower Software rebrands and expands into compliance",
-        "element_id": 103
+        "title": "Whistleblower Software rebrands, expands into compliance with $16M",
+        "element_id": 112
     },
     {
         "source": "TechCrunch",
@@ -48,7 +354,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Catalog is building the B2B commerce platform for small companies",
-        "element_id": 104
+        "element_id": 113
     },
     {
         "source": "BBC News",
@@ -60,13 +366,13 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "N Korea hacked S Korea chip firms, Seoul says",
-        "element_id": 1
+        "element_id": 2
     },
     {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/2024/03/04/indian-firms-begrudgingly-comply-with-google-play-rules-while-seeking-regulatory-intervention/",
         "author": "Ivan Mehta",
-        "description": "<p>Indian firms whose apps were delisted by Google last week have begrudgingly started to comply with Play Store billing rules to get their apps back on the store. Apps like Shaadi, Matrimony.com, and Bharat Matrimony were restored after being removed from the Play Store Friday. Other apps to return include Info Edge\u2019s Naukri and 99acres, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "description": "<p>Update March 5, 4.30 PM IST: Google said that it is restoring all Indian firms&#8217; apps after both the Silicon Valley company and protesting firms met with India&#8217;s IT Minister Ashwini Vaishnaw. \u201cIn the spirit of cooperation, we are temporarily reinstating the apps of the developers with appeals pending in the Supreme Court. Google maintains [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
         "categories": [
             "Apps",
             "Google",
@@ -76,8 +382,8 @@
         "pubDate": "Tue, 05 Mar 2024 03:10:49 +0000",
         "media_content": "No image",
         "media_credit": "Unknown",
-        "title": "Indian firms begrudgingly comply with Google Play rules while seeking regulatory intervention",
-        "element_id": 105
+        "title": "Google temporarily restores Indian firms\u2019 apps on Play Store after regulatory intervention",
+        "element_id": 114
     },
     {
         "source": "Wired",
@@ -97,7 +403,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Over 600 Google Workers Urge the Company to Cut Ties With Israeli Tech Conference",
-        "element_id": 52
+        "element_id": 54
     },
     {
         "source": "TechCrunch",
@@ -116,7 +422,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Elon Musk switched on X calling by default: Here\u2019s how to switch it off",
-        "element_id": 106
+        "element_id": 115
     },
     {
         "source": "TechCrunch",
@@ -134,7 +440,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Former Twitter CEO sues Elon Musk",
-        "element_id": 107
+        "element_id": 116
     },
     {
         "source": "TechCrunch",
@@ -152,7 +458,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Shure enters the wireless lav mic business",
-        "element_id": 108
+        "element_id": 117
     },
     {
         "source": "TechCrunch",
@@ -166,7 +472,34 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "TechCrunch Space: Good night, Odysseus",
-        "element_id": 109
+        "element_id": 118
+    },
+    {
+        "source": "Technology | The Guardian",
+        "link": "https://www.theguardian.com/technology/2024/mar/04/former-twitter-execs-sue-elon-musk-severance",
+        "author": "Nick Robins-Early",
+        "description": "<p>Suit by former employees, including ex-CEO Parag Agrawal, follows a separate legal complaint by other workers seeking $500m</p><p>Elon Musk is facing a $128m lawsuit from four former Twitter executives who allege the billionaire tech mogul failed to pay them severance after buying the social network. The suit, filed on Monday in California, follows a separate legal complaint last year by rank-and-file employees seeking $500m in unpaid severance.</p><p>\u201cBecause Musk decided he didn\u2019t want to pay Plaintiffs\u2019 severance benefits, he simply fired them without reason, then made up fake cause and appointed employees of his various companies to uphold his decision,\u201d the suit alleges.</p> <a href=\"https://www.theguardian.com/technology/2024/mar/04/former-twitter-execs-sue-elon-musk-severance\">Continue reading...</a>",
+        "categories": [
+            "Elon Musk",
+            "X",
+            "Technology",
+            "Internet",
+            "Law (US)"
+        ],
+        "pubDate": "Mon, 04 Mar 2024 22:45:36 GMT",
+        "media_content": "https://i.guim.co.uk/img/media/11476f8d33ce93d5ea92c3597d5e4b8608748e6a/0_205_8016_4810/master/8016.jpg?width=140&quality=85&auto=format&fit=max&s=7b79cbda58d895a9c95115195ec9734e",
+        "media_credit": [
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: NurPhoto/Getty Images"
+            },
+            {
+                "scheme": "urn:ebu",
+                "content": "Photograph: NurPhoto/Getty Images"
+            }
+        ],
+        "title": "Ex-Twitter executives sue Elon Musk for $128m in unpaid severance",
+        "element_id": 25
     },
     {
         "source": "Wired",
@@ -190,7 +523,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Diletta Bello Review: Perfect Crema Comes at a Cost",
-        "element_id": 53
+        "element_id": 55
     },
     {
         "source": "TechCrunch",
@@ -214,7 +547,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Streamer Deezer cheers Apple antitrust fine but calls tech giant\u2019s DMA response \u2018deceptive\u2019",
-        "element_id": 110
+        "element_id": 119
     },
     {
         "source": "TechCrunch",
@@ -231,7 +564,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Australian space startup Esper wants to build hyperspectral sats for cheap",
-        "element_id": 111
+        "element_id": 120
     },
     {
         "source": "TechCrunch",
@@ -252,63 +585,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Signal\u2019s Meredith Whittaker scorns anti-encryption efforts as \u2018parochial, magical thinking\u2019",
-        "element_id": 112
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/brex-sam-blond-leaves-founders-fund/",
-        "author": "Julie Bort",
-        "description": "<p>Sam Blond is leaving Founders Fund, as well as the profession of venture capitalist, just 18 months after he joined the storied Silicon Valley firm. In a tweet on Monday, Blond expressed his gratitude at the chance to work at Peter Thiel\u2019s VC firm and explained, \u201cFull time investing / being a VC isn\u2019t the [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Venture",
-            "Brex",
-            "Founders Fund",
-            "venture capital"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 20:41:54 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Ex-Brex exec Sam Blond is already leaving Founders Fund just 18 months after he joined",
-        "element_id": 113
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/why-signal-turned-our-architecture-inside-out-for-its-latest-privacy-feature/",
-        "author": "Devin Coldewey",
-        "description": "<p>Adding usernames to a messaging app may seem like a standard feature, but for Signal, such identifiers were anathema to its mission of total privacy and security \u2014 until now. The upcoming 7.0 version adds usernames, but the company&#8217;s president, Meredith Whittaker, explained that this was nowhere near as simple a decision as it may [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Apps",
-            "Privacy",
-            "Security",
-            "encryption",
-            "Meredith Whittaker",
-            "signal",
-            "StrictlyVC LA"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 20:25:55 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Why Signal \u2018turned our architecture inside out\u2019 for its latest privacy feature",
-        "element_id": 114
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/anthropic-claims-its-new-models-beat-gpt-4/",
-        "author": "Kyle Wiggers",
-        "description": "<p>AI startup Anthropic, backed by Google and hundreds of millions in venture capital (and perhaps soon hundreds of millions more), today announced the latest version of its GenAI tech, Claude. And the company claims that the AI chatbot beats OpenAI&#8217;s GPT-4 in terms of performance. Claude 3, as Anthropic&#8217;s new GenAI is called, is a [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "AI",
-            "Apps",
-            "Startups",
-            "anthropic",
-            "genAI",
-            "Generative AI"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 19:50:57 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Anthropic claims its new AI chatbot models beat OpenAI\u2019s GPT-4",
-        "element_id": 115
+        "element_id": 121
     },
     {
         "source": "Wired",
@@ -330,29 +607,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Apple Fined $2 Billion as Europe Sides With Spotify",
-        "element_id": 54
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/googles-latest-pixel-drop-brings-support-for-high-quality-photos-and-videos-on-instagram/",
-        "author": "Ivan Mehta",
-        "description": "<p>Google today announced its latest set of Pixel-related features for phones tablets, and watches, such as 10-bit video support for Instagram, expansion of the Circle to search feature, automatic workout detection on the original pixel watch and selective app screening for multiple pixel devices. Pixel phone updates The company is now allowing users to capture [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Apps",
-            "Android",
-            "Google",
-            "Instagram",
-            "pixel 8",
-            "Pixel 8 Pro",
-            "Pixel Drop",
-            "pixel tablet",
-            "pixel watch"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 19:00:52 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Google\u2019s latest Pixel Drop will let users post high-quality photos, videos on Instagram",
-        "element_id": 116
+        "element_id": 56
     },
     {
         "source": "Wired",
@@ -375,7 +630,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "16 Best Wireless Earbuds (2024): Noise Cancelers, Cheap, Luxe, and More",
-        "element_id": 55
+        "element_id": 57
     },
     {
         "source": "Wired",
@@ -397,24 +652,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment",
-        "element_id": 56
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/instagram-now-lets-you-edit-dms-up-to-15-mins-after-sending-them/",
-        "author": "Aisha Malik",
-        "description": "<p>Instagram announced today that it&#8217;s rolling out the ability for users to edit their direct messages for up to 15 minutes after sending them. The company also announced that\u00a0users will soon also get the option to pin up to three messaging threads to the top of their inbox. The ability to edit your DMs lets [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Apps",
-            "Social",
-            "Instagram",
-            "meta"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 17:34:22 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Instagram now lets you edit DMs up to 15 mins after sending them",
-        "element_id": 117
+        "element_id": 58
     },
     {
         "source": "Wired",
@@ -434,85 +672,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Apple 13- and 15-inch M3 MacBook Air: Price, Specs, Availability",
-        "element_id": 57
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/disrupt-2024-call-for-speakers-now-open/",
-        "author": "Robert Frawley",
-        "description": "<p>Got the passion and the know-how, and want to make a difference in tech? Then mark your calendars for TechCrunch Disrupt 2024 happening in San Francisco from October 28\u201330. We&#8217;re on the lookout for dynamic speakers like you to grace our event with your insights. Apply to speak by April 26 here. Here&#8217;s how you [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Startups",
-            "TC Disrupt 2024",
-            "TechCrunch Disrupt 2024"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 17:00:08 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Disrupt 2024 call for speakers now open",
-        "element_id": 118
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/epic-games-tim-sweeney-calls-out-apples-bitter-griping-after-its-eu-fine-over-anticompetitive-practices/",
-        "author": "Sarah Perez",
-        "description": "<p>&#8220;Denial is a river that flows through Cupertino!,&#8221; said Epic Games CEO Tim Sweeney, a notorious Apple critic who also sued the tech giant for anticompetitive practices, in a post on X, weighing in on today&#8217;s news of the European Commission&#8217;s historic \u20ac1.84 billion fine against the iPhone maker. The EC ruling, which favors Spotify, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Apps",
-            "Gaming",
-            "Government & Policy",
-            "antitrust",
-            "Apple",
-            "Epic Games",
-            "eu",
-            "european commission",
-            "european union",
-            "fortnite",
-            "tim sweeney"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 16:50:31 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Epic Games\u2019 Tim Sweeney calls out Apple\u2019s \u2018bitter griping\u2019 after its EU fine over anticompetitive practices",
-        "element_id": 119
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/razor-and-perch-merge-raise-100m-on-a-1-7b-valuation-as-more-roll-ups-consolidate/",
-        "author": "Ingrid Lunden",
-        "description": "<p>Just days after the bankruptcy of Thrasio, two other significant players in the world of e-commerce aggregators are merging and raising some extra money to shore up their business and double down on a model it still believes has teeth. Berlin&#8217;s Razor Group has acquired U.S.-based Perch, and on top of this it has raised [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Commerce",
-            "aggregators",
-            "Mergers and Acquisitions",
-            "Perch",
-            "razor",
-            "roll-ups",
-            "thrasio"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 16:27:02 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Razor and Perch merge, raise $100M on a $1.7B valuation as more roll-ups consolidate",
-        "element_id": 120
-    },
-    {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/2024/03/04/airbnb-has-another-label-to-tell-you-about-a-propertys-quality/",
-        "author": "Ivan Mehta",
-        "description": "<p>Airbnb already has labels like &#8220;Guest favorites&#8221; and &#8220;Superhost&#8221; to indicate the quality of a property or the host. Now the company is adding a new label for the top 25% and top 1% properties on the listing page. Usually, Airbnb releases updates twice a year with so-called winter and summer releases. But this time, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "categories": [
-            "Apps",
-            "Commerce",
-            "Airbnb",
-            "brian chesky",
-            "vacation rental"
-        ],
-        "pubDate": "Mon, 04 Mar 2024 16:00:43 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Airbnb has a new label to denote its top (and worst) listings",
-        "element_id": 121
+        "element_id": 59
     },
     {
         "source": "BBC News",
@@ -524,7 +684,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Apple fined \u20ac1.8bn for breaking streaming rules",
-        "element_id": 2
+        "element_id": 3
     },
     {
         "source": "Wired",
@@ -544,7 +704,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "I Found Frank Herbert\u2019s 'Dune' Script. 'Dune: Part Two' Is Better",
-        "element_id": 58
+        "element_id": 60
     },
     {
         "source": "Wired",
@@ -567,7 +727,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "JavaScript Runs the World\u2014Maybe Even Literally",
-        "element_id": 59
+        "element_id": 61
     },
     {
         "source": "Wired",
@@ -587,7 +747,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Why Tech Job Interviews Became Such a Nightmare",
-        "element_id": 60
+        "element_id": 62
     },
     {
         "source": "Wired",
@@ -608,7 +768,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Less Sea Ice Means More Arctic Trees\u2014Which Means Trouble",
-        "element_id": 61
+        "element_id": 63
     },
     {
         "source": "Technology | The Guardian",
@@ -704,7 +864,7 @@
             }
         ],
         "title": "\u2018Musk needs to be adored \u2026 Zuckerberg is out of his depth\u2019: Kara Swisher on the toxic giants of Big Tech",
-        "element_id": 25
+        "element_id": 26
     },
     {
         "source": "BBC News",
@@ -716,7 +876,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Nissan accused of dumping its electric car pioneers",
-        "element_id": 3
+        "element_id": 4
     },
     {
         "source": "Wired",
@@ -737,7 +897,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Robert F. Kennedy Jr.\u2019s Microsoft-Powered Chatbot Is Back Online",
-        "element_id": 62
+        "element_id": 64
     },
     {
         "source": "Wired",
@@ -757,7 +917,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The Biden Campaign Fills Out Its Digital Team Ahead of Super Tuesday",
-        "element_id": 63
+        "element_id": 65
     },
     {
         "source": "Wired",
@@ -778,7 +938,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "LinkedIn Tells People if You Look at Their Profile. Here's How to Turn That Off",
-        "element_id": 64
+        "element_id": 66
     },
     {
         "source": "Wired",
@@ -798,7 +958,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "5 Best Sturdy Stockings (2024): Tights, Pantyhose, Sustainable",
-        "element_id": 65
+        "element_id": 67
     },
     {
         "source": "Wired",
@@ -818,7 +978,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "This Is What Your Brain Does When You\u2019re Not Doing Anything",
-        "element_id": 66
+        "element_id": 68
     },
     {
         "source": "Wired",
@@ -840,7 +1000,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "What Is OpenAI\u2019s ChatGPT Plus? Here\u2019s What You Should Know",
-        "element_id": 67
+        "element_id": 69
     },
     {
         "source": "Technology | The Guardian",
@@ -871,7 +1031,7 @@
             }
         ],
         "title": "What\u2019s up with Generation Z?",
-        "element_id": 31
+        "element_id": 33
     },
     {
         "source": "Technology | The Guardian",
@@ -902,7 +1062,7 @@
             }
         ],
         "title": "\u2018I can cry without feeling stigma\u2019: meet the people turning to AI chatbots for therapy",
-        "element_id": 26
+        "element_id": 27
     },
     {
         "source": "Wired",
@@ -922,7 +1082,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "HP Wants to Rent You a Printer That It Monitors at All Times",
-        "element_id": 68
+        "element_id": 70
     },
     {
         "source": "Technology | The Guardian",
@@ -950,7 +1110,7 @@
             }
         ],
         "title": "AI\u2019s craving for data is matched only by a runaway thirst for water and energy | John Naughton",
-        "element_id": 27
+        "element_id": 28
     },
     {
         "source": "Wired",
@@ -967,7 +1127,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "9 Deals From the Discover Samsung Sale: Phones, Tablets, TVs",
-        "element_id": 69
+        "element_id": 71
     },
     {
         "source": "Wired",
@@ -991,7 +1151,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The Privacy Danger Lurking in Push Notifications",
-        "element_id": 70
+        "element_id": 72
     },
     {
         "source": "Wired",
@@ -1011,7 +1171,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Music Is TikTok's Past. Sounds May Be Its Future",
-        "element_id": 71
+        "element_id": 73
     },
     {
         "source": "Wired",
@@ -1032,7 +1192,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The US Buried Nuclear Waste Abroad. Climate Change Could Unearth It",
-        "element_id": 72
+        "element_id": 74
     },
     {
         "source": "Wired",
@@ -1049,7 +1209,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "12 Best Deals: Office Chairs, Keyboards, Gaming Headsets, Handhelds",
-        "element_id": 73
+        "element_id": 75
     },
     {
         "source": "Wired",
@@ -1072,7 +1232,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "These Companies Have a Plan to Kill Apps",
-        "element_id": 74
+        "element_id": 76
     },
     {
         "source": "Technology | The Guardian",
@@ -1110,7 +1270,7 @@
             }
         ],
         "title": "How positive male role models are detoxifying the social media \u2018manosphere\u2019",
-        "element_id": 32
+        "element_id": 34
     },
     {
         "source": "Wired",
@@ -1127,7 +1287,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "7 Great Deals on iPads and Accessories",
-        "element_id": 75
+        "element_id": 77
     },
     {
         "source": "Wired",
@@ -1148,7 +1308,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Waymo Will Bring Autonomous Taxis to Los Angeles\u2014Its Biggest Challenge Yet",
-        "element_id": 76
+        "element_id": 78
     },
     {
         "source": "Wired",
@@ -1169,7 +1329,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The Wild Claim at the Heart of Elon Musk\u2019s OpenAI Lawsuit",
-        "element_id": 77
+        "element_id": 79
     },
     {
         "source": "Wired",
@@ -1189,7 +1349,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "A Leap Year Glitch Broke Self-Pay Gas Station Pumps Across New Zealand",
-        "element_id": 78
+        "element_id": 80
     },
     {
         "source": "Wired",
@@ -1210,7 +1370,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "11 Best Tents (2024): Backpacking, Family, and Ultralight",
-        "element_id": 79
+        "element_id": 81
     },
     {
         "source": "Wired",
@@ -1234,7 +1394,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "21 Best Wireless Headphones (2024): Earbuds, Noise Canceling, and More",
-        "element_id": 80
+        "element_id": 82
     },
     {
         "source": "Technology | The Guardian",
@@ -1268,7 +1428,7 @@
             }
         ],
         "title": "Elon Musk sues OpenAI accusing it of putting profit before humanity",
-        "element_id": 28
+        "element_id": 29
     },
     {
         "source": "Wired",
@@ -1289,7 +1449,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Signia Pure Charge&Go IX Hearing Aids Review: Great AI-Powered Audio, for a Price",
-        "element_id": 81
+        "element_id": 83
     },
     {
         "source": "BBC News",
@@ -1301,7 +1461,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "How big banks are becoming 'Bitcoin whales'",
-        "element_id": 4
+        "element_id": 5
     },
     {
         "source": "BBC News",
@@ -1313,7 +1473,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Elon Musk sues OpenAI over Microsoft links",
-        "element_id": 5
+        "element_id": 6
     },
     {
         "source": "Wired",
@@ -1335,7 +1495,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The Mind-Blowing Experience of a Chatbot That Answers Instantly",
-        "element_id": 82
+        "element_id": 84
     },
     {
         "source": "Wired",
@@ -1355,7 +1515,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Elon Musk Sues OpenAI and Sam Altman for \u2018Flagrant Breaches\u2019 of Contract",
-        "element_id": 83
+        "element_id": 85
     },
     {
         "source": "Wired",
@@ -1373,7 +1533,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "'Dune: Part Two' Fulfills the Prophecy of 'Dune'",
-        "element_id": 84
+        "element_id": 86
     },
     {
         "source": "Wired",
@@ -1396,7 +1556,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Elon Musk's Lawsuit Against a Group That Found Hate Speech on X Isn't Going Well",
-        "element_id": 85
+        "element_id": 87
     },
     {
         "source": "Wired",
@@ -1419,7 +1579,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Here Come the AI Worms",
-        "element_id": 86
+        "element_id": 88
     },
     {
         "source": "Wired",
@@ -1440,7 +1600,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Good Climate Solutions Need Good Policy\u2014and AI Can Help With That",
-        "element_id": 87
+        "element_id": 89
     },
     {
         "source": "Wired",
@@ -1461,7 +1621,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Spain's Tragic Tower Block Fire Exposes the World's Failing Fire Regulations",
-        "element_id": 88
+        "element_id": 90
     },
     {
         "source": "Wired",
@@ -1481,7 +1641,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The UK\u2019s GPS Tagging of Migrants Has Been Ruled Illegal",
-        "element_id": 89
+        "element_id": 91
     },
     {
         "source": "BBC News",
@@ -1493,7 +1653,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "AI optimism sends Nasdaq to new post-Covid high",
-        "element_id": 6
+        "element_id": 7
     },
     {
         "source": "Wired",
@@ -1513,7 +1673,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Google\u2019s Deal With Stack Overflow Is the Latest Proof That AI Giants Will Pay for Data",
-        "element_id": 90
+        "element_id": 92
     },
     {
         "source": "Wired",
@@ -1533,7 +1693,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The Willy Wonka Event\u2019s Lead Actor Speaks Out: \u2018It Was Just Gibberish\u2019",
-        "element_id": 91
+        "element_id": 93
     },
     {
         "source": "Wired",
@@ -1553,7 +1713,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Nintendo Sues Makers of the Wildly Popular Yuzu Emulator",
-        "element_id": 92
+        "element_id": 94
     },
     {
         "source": "Wired",
@@ -1571,7 +1731,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The 26 Best Shows on Max (aka HBO Max) Right Now",
-        "element_id": 93
+        "element_id": 95
     },
     {
         "source": "Technology | The Guardian",
@@ -1601,7 +1761,7 @@
             }
         ],
         "title": "Court orders maker of Pegasus spyware to hand over code to WhatsApp",
-        "element_id": 29
+        "element_id": 30
     },
     {
         "source": "BBC News",
@@ -1613,7 +1773,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Plan to double power of e-bikes sparks fire fears",
-        "element_id": 7
+        "element_id": 8
     },
     {
         "source": "Wired",
@@ -1637,32 +1797,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The Mysterious Case of the Missing Trump Trial Ransomware Leak",
-        "element_id": 94
-    },
-    {
-        "source": "Technology | The Guardian",
-        "link": "https://www.theguardian.com/technology/2024/feb/29/cat-janice-dead-tiktok-singer",
-        "author": "Erum Salam",
-        "description": "<p>Singer had documented her experience with a rare form of cancer on platform and dedicated her last song to her son</p><p>Cat Janice, the singer who went viral for dedicating her last song to her son and inspired a viral TikTok trend, has died from cancer, her family confirmed on Wednesday.</p><p>Her family <a href=\"https://www.instagram.com/p/C35tAQFxaFb/\">announced</a> the news on her Instagram account: \u201cThis morning, from her childhood home and surrounded by her loving family, Catherine peacefully entered the light and love of her heavenly creator.</p> <a href=\"https://www.theguardian.com/technology/2024/feb/29/cat-janice-dead-tiktok-singer\">Continue reading...</a>",
-        "categories": [
-            "TikTok",
-            "US news",
-            "Music"
-        ],
-        "pubDate": "Thu, 29 Feb 2024 17:23:52 GMT",
-        "media_content": "https://i.guim.co.uk/img/media/a4b469ccb52bce40edc90bf0fa66e068d2929bc8/0_28_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=3fc77b4916e325837b3e5b883a66faf6",
-        "media_credit": [
-            {
-                "scheme": "urn:ebu",
-                "content": "Photograph: Jahi Chikwendiu/The Washington Post via Getty Images"
-            },
-            {
-                "scheme": "urn:ebu",
-                "content": "Photograph: Jahi Chikwendiu/The Washington Post via Getty Images"
-            }
-        ],
-        "title": "Cat Janice, viral TikTok singer, dies aged 31",
-        "element_id": 30
+        "element_id": 96
     },
     {
         "source": "Wired",
@@ -1683,7 +1818,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "The AI Culture Wars Are Just Getting Started",
-        "element_id": 95
+        "element_id": 97
     },
     {
         "source": "Wired",
@@ -1706,7 +1841,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
-        "element_id": 96
+        "element_id": 98
     },
     {
         "source": "Technology | The Guardian",
@@ -1753,7 +1888,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Best Theraguns and Other Therabody Tools (2024): Massage Guns, SmartGoggles, and TheraFace",
-        "element_id": 97
+        "element_id": 99
     },
     {
         "source": "Wired",
@@ -1775,7 +1910,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "12 Best Instant Cameras (2024): Instax, Lomography, Polaroid",
-        "element_id": 98
+        "element_id": 100
     },
     {
         "source": "Wired",
@@ -1796,50 +1931,6 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Russia Attacked Ukraine's Power Grid at Least 66 Times to \u2018Freeze It Into Submission\u2019",
-        "element_id": 99
-    },
-    {
-        "source": "Wired",
-        "link": "https://www.wired.com/story/gadget-lab-podcast-634/",
-        "author": "Lauren Goode, Michael Calore, Will Knight",
-        "description": "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence.",
-        "categories": [
-            "Gear",
-            "Gear / Gadget Lab Podcast",
-            "Gadget Lab Podcast",
-            "podcasts",
-            "NVIDIA",
-            "artificial intelligence",
-            "chips",
-            "WIRED Podcasts"
-        ],
-        "pubDate": "Thu, 29 Feb 2024 13:00:00 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "How Nvidia Came to Rule AI",
-        "element_id": 100
-    },
-    {
-        "source": "Wired",
-        "link": "https://www.wired.com/story/public-ev-charging-tesla-ford/",
-        "author": "Aarian Marshall",
-        "description": "Starting today, Ford electric car drivers can plug into the Supercharger network. You can bet more makers will follow.",
-        "categories": [
-            "Gear",
-            "Gear / Gear News and Events",
-            "Business / Transportation",
-            "EVs and Hybrids",
-            "Tesla",
-            "Elon Musk",
-            "ford",
-            "cars",
-            "transportation",
-            "Leading the Charge"
-        ],
-        "pubDate": "Thu, 29 Feb 2024 13:00:00 +0000",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Tesla's Charging Network Is Now Open to Other EVs\u2014and Ford Is First in Line",
         "element_id": 101
     },
     {
@@ -1852,38 +1943,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Star Wars game cancelled as EA cuts 670 jobs",
-        "element_id": 8
-    },
-    {
-        "source": "Technology | The Guardian",
-        "link": "https://www.theguardian.com/tv-and-radio/2024/feb/29/dead-river-podcast-2015-mariana-dam-disaster",
-        "author": "Michael Safi, Alexi Duggins, Hannah Verdier and Hollie Richardson",
-        "description": "<p>Dead River investigates the cause and effects of the Brazil catastrophe. Plus: five of the funniest podcasts that also teach you something</p><p></p><p><strong>\u2022 <a href=\"https://www.theguardian.com/info/2017/may/10/hear-here-podcast-recommendations-sign-up-for-unexpected-audio-pleasures\">Don\u2019t get Hear Here delivered to your inbox? Sign up here</a></strong></p><p><strong><a href=\"https://podcasts.apple.com/gb/podcast/hear-me-out-with-lucy-eaton/id1558088854\">Hear Me Out</a><br />Widely available, episodes weekly</strong><br />This chatty theatre podcast from actor Lucy Eaton gives you a snippet of multiple stars\u2019 dramatic talent. They each pick a favourite speech, then act it out, amid a personal chat that gives it a feel of Desert Island Discs for the stage. The first episode of the latest series hears Mark Gatiss perform Hamlet\u2019s \u201cyearning\u201d and \u201cangry\u201d \u201cspeak the speech\u201d soliloquy, as used in Jack Thorne\u2019s The Motive and the Cue. <em><strong>Alexi Duggins</strong></em></p> <a href=\"https://www.theguardian.com/tv-and-radio/2024/feb/29/dead-river-podcast-2015-mariana-dam-disaster\">Continue reading...</a>",
-        "categories": [
-            "Podcasts",
-            "Podcasting",
-            "Television",
-            "Television & radio",
-            "Culture",
-            "Digital media",
-            "Internet",
-            "Media",
-            "Technology"
-        ],
-        "pubDate": "Thu, 29 Feb 2024 10:56:51 GMT",
-        "media_content": "https://i.guim.co.uk/img/media/c3a9869650a73bbd60d52f49b4e5e3157842fa91/0_177_3500_2102/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=bda26cf85571335707ed3f56f30adb8d",
-        "media_credit": [
-            {
-                "scheme": "urn:ebu",
-                "content": "Photograph: Ricardo Moraes/Reuters"
-            },
-            {
-                "scheme": "urn:ebu",
-                "content": "Photograph: Ricardo Moraes/Reuters"
-            }
-        ],
-        "title": "The true story of the devastating 2015 Mariana dam disaster",
-        "element_id": 33
+        "element_id": 9
     },
     {
         "source": "Technology | The Guardian",
@@ -1925,7 +1985,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Winklevoss firm to return $1.1bn to customers",
-        "element_id": 9
+        "element_id": 10
     },
     {
         "source": "BBC News",
@@ -1949,7 +2009,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "European parliament revokes Amazon lobbyist passes",
-        "element_id": 12
+        "element_id": 13
     },
     {
         "source": "Technology | The Guardian",
@@ -1989,7 +2049,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "What is Bitcoin? Key crypto terms and what they mean",
-        "element_id": 11
+        "element_id": 12
     },
     {
         "source": "Technology | The Guardian",
@@ -2017,35 +2077,6 @@
         "element_id": 45
     },
     {
-        "source": "Technology | The Guardian",
-        "link": "https://www.theguardian.com/music/2024/feb/28/everyone-knows-that-can-you-identify-the-lost-80s-hit-baffling-the-internet",
-        "author": "Carrie O'Grady",
-        "description": "<p>Entire online communities have developed around naming this 17-second snippet of catchy pop \u2013 and three years after it was uploaded no one has solved the mystery</p><p>It\u2019s only 17 seconds long, and sounds a bit like 80s-era <a href=\"https://www.theguardian.com/music/genesis\">Genesis</a> playing at the bottom of a swimming pool. But this snippet of bouncy yet sonically degraded pop has become one of the biggest and most enduring musical mysteries on the internet.</p><p>The clip was uploaded in 2021 by someone called Carl92, who wanted to know if anyone could identify it. \u201cI don\u2019t remember its origin,\u201d he wrote on a site called WatZatSong, saying he found it \u201cbetween a bunch of very old files in a DVD backup \u2026 it sounds somewhat familiar to me.\u201d But even after the 17-second sample was posted on Reddit, where the mighty pop-culture hive mind rarely fails, not a single person managed to identify the song or the artist.</p> <a href=\"https://www.theguardian.com/music/2024/feb/28/everyone-knows-that-can-you-identify-the-lost-80s-hit-baffling-the-internet\">Continue reading...</a>",
-        "categories": [
-            "Music",
-            "Pop and rock",
-            "Culture",
-            "Internet",
-            "Reddit",
-            "TikTok",
-            "Technology"
-        ],
-        "pubDate": "Wed, 28 Feb 2024 09:00:21 GMT",
-        "media_content": "https://i.guim.co.uk/img/media/ee779f565c52360f0bd1da6372c21c8ec1bce1e6/0_0_1653_992/master/1653.jpg?width=140&quality=85&auto=format&fit=max&s=c98d7432679ab75b52c0be4b988ba39f",
-        "media_credit": [
-            {
-                "scheme": "urn:ebu",
-                "content": "Illustration: Guardian Design; Getty Images/The Guardian"
-            },
-            {
-                "scheme": "urn:ebu",
-                "content": "Illustration: Guardian Design; Getty Images/The Guardian"
-            }
-        ],
-        "title": "Everyone Knows That: can you identify the lost 80s hit baffling the internet?",
-        "element_id": 34
-    },
-    {
         "source": "BBC News",
         "link": "https://www.bbc.co.uk/news/technology-68412620",
         "author": "Unknown",
@@ -2055,7 +2086,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Why Google's 'woke' AI problem won't be an easy fix",
-        "element_id": 10
+        "element_id": 11
     },
     {
         "source": "Technology | The Guardian",
@@ -2085,6 +2116,18 @@
     },
     {
         "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/business-68420817",
+        "author": "Unknown",
+        "description": "The firm never acknowledged the project publicly but had recruited about two thousands workers.",
+        "categories": [],
+        "pubDate": "Wed, 28 Feb 2024 06:51:14 GMT",
+        "media_content": "No image",
+        "media_credit": "Unknown",
+        "title": "Apple unplugs electric car project, reports say",
+        "element_id": 14
+    },
+    {
+        "source": "BBC News",
         "link": "https://www.bbc.co.uk/news/newsbeat-68401985",
         "author": "Unknown",
         "description": "News about the next game in the popular Nintendo series gets fans talking about its next console.",
@@ -2093,7 +2136,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Pok\u00e9mon Day reveal reignites Switch 2 rumours",
-        "element_id": 13
+        "element_id": 15
     },
     {
         "source": "Technology | The Guardian",
@@ -2131,7 +2174,7 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "PlayStation to axe 900 jobs and close London studio",
-        "element_id": 15
+        "element_id": 17
     },
     {
         "source": "BBC News",
@@ -2143,18 +2186,6 @@
         "media_content": "No image",
         "media_credit": "Unknown",
         "title": "Elon Musk eats humble pie over unpaid bakery bill",
-        "element_id": 14
-    },
-    {
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/entertainment-arts-68412642",
-        "author": "Unknown",
-        "description": "At first artists signed to the label were removed, but now writers are being taken off the platform.",
-        "categories": [],
-        "pubDate": "Tue, 27 Feb 2024 12:41:45 GMT",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "More music leaving TikTok over Universal row",
         "element_id": 16
     },
     {
@@ -2221,18 +2252,6 @@
     },
     {
         "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/technology-68383587",
-        "author": "Unknown",
-        "description": "The owner of Facebook and Instagram says the group will tackle AI content in the June 2024 EU elections.",
-        "categories": [],
-        "pubDate": "Mon, 26 Feb 2024 13:35:14 GMT",
-        "media_content": "No image",
-        "media_credit": "Unknown",
-        "title": "Meta forms team to stop AI from tricking voters",
-        "element_id": 17
-    },
-    {
-        "source": "BBC News",
         "link": "https://www.bbc.co.uk/news/technology-68382974",
         "author": "Unknown",
         "description": "Piers Morgan and Oprah have criticised the use of AI deepfake ads used to promote a \"manifestation\" guide.",
@@ -2295,7 +2314,7 @@
             }
         ],
         "title": "OnePlus 12 review: smartphone left behind by top rivals",
-        "element_id": 35
+        "element_id": 36
     },
     {
         "source": "BBC News",
@@ -2396,7 +2415,7 @@
             }
         ],
         "title": "Honor Magic V2 review: exquisite hardware let down by software",
-        "element_id": 36
+        "element_id": 37
     },
     {
         "source": "Technology | The Guardian",
@@ -2426,7 +2445,7 @@
             }
         ],
         "title": "Samsung Galaxy S24 Ultra review: the Swiss army knife of phones, now with AI",
-        "element_id": 37
+        "element_id": 38
     },
     {
         "source": "Technology | The Guardian",
@@ -2453,32 +2472,5 @@
         ],
         "title": "Apple MacBook Pro M3 review: beloved laptop is back in black",
         "element_id": 42
-    },
-    {
-        "source": "Technology | The Guardian",
-        "link": "https://www.theguardian.com/technology/2023/oct/30/pixel-8-review-googles-smaller-longer-lasting-android",
-        "author": "Samuel Gibbs Consumer technology editor",
-        "description": "<p>Plenty of power, camera and fancy AI features packed into a smaller frame that is cheaper than rivals</p><p>Google\u2019s standard Pixel 8 gets a little smaller, faster and smarter, while lasting longer than the competition with seven years of updates.</p><p>The new Android costs \u00a3699 (\u20ac799/$699/A$1,199) \u2013 a \u00a3100 increase on last year\u2019s model \u2013 but still undercuts the competition from Samsung and Apple, which cost about \u00a3800.</p><p><strong>Screen:</strong> 6.2in 120Hz FHD+ OLED (428ppi)</p><p><strong>Processor:</strong> Google Tensor G3</p><p><strong>RAM:</strong> 8GB</p><p><strong>Storage:</strong> 128 or 256GB</p><p><strong>Operating system:</strong> Android 14</p><p><strong>Camera:</strong> 50MP + 12MP ultrawide, 10.5MP selfie</p><p><strong>Connectivity:</strong> 5G, eSIM, wifi 7, NFC, Bluetooth 5.3 and GNSS</p><p><strong>Water resistance:</strong> IP68 (1.5m for 30 minutes)</p><p><strong>Dimensions:</strong> 150.5 x 70.8 x 8.9mm</p><p><strong>Weight:</strong> 187g</p> <a href=\"https://www.theguardian.com/technology/2023/oct/30/pixel-8-review-googles-smaller-longer-lasting-android\">Continue reading...</a>",
-        "categories": [
-            "Pixel",
-            "Google",
-            "Smartphones",
-            "Mobile phones",
-            "Technology"
-        ],
-        "pubDate": "Mon, 30 Oct 2023 07:00:07 GMT",
-        "media_content": "https://i.guim.co.uk/img/media/9eade05c3a720f55bd148280cc9b04bb9d3b5101/200_390_4973_2983/master/4973.jpg?width=140&quality=85&auto=format&fit=max&s=d05c43984d2fcc9c7c47ff1980c84b4c",
-        "media_credit": [
-            {
-                "scheme": "urn:ebu",
-                "content": "Photograph: Samuel Gibbs/The Guardian"
-            },
-            {
-                "scheme": "urn:ebu",
-                "content": "Photograph: Samuel Gibbs/The Guardian"
-            }
-        ],
-        "title": "Pixel 8 review: Google\u2019s smaller, longer-lasting Android",
-        "element_id": 38
     }
 ]

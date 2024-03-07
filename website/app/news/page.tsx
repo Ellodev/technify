@@ -22,7 +22,7 @@ export default function News() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://127.0.0.1:5000/articles');
+        const response = await fetch('https://bucket-tech-news.s3.eu-north-1.amazonaws.com/articles.json');
         const fetchedData: NewsItem[] = await response.json();
         setData(fetchedData);
       } catch (error) {

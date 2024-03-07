@@ -50,16 +50,6 @@ export default function News() {
             onClick={() => handleClick(element.link)}
             style={{ cursor: 'pointer' }}
           >
-            {element.media_content !== 'No image' && (
-              <Image
-                className="rounded-md m-2"
-                src={element.media_content}
-                width={500}
-                height={300}
-                alt={`Image for: ${element.title}`}
-              />
-            )}
-
             <div>
               <p className="text-lg font-bold">{element.title}</p>
               <p className="font-extralight">Source: {element.source}</p>

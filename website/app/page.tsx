@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -7,6 +7,7 @@ export default function Home() {
         <p className="text-[72px]">Tech News</p>
         <p>A collection of articles from different news sites using RSS feeds.</p>
       </div>
+      <Link href="/news">Go to News Page</Link>
     </main>
   );
 }

@@ -16,6 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+    <head>
+        <script defer src="https://ellostats.vercel.app/script.js" data-website-id="5433c551-3455-4409-b33f-c01922c3956a"></script>
+    </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

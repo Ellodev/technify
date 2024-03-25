@@ -8,6 +8,8 @@ export default function Home() {
         <p>A collection of articles from different news sites using RSS feeds.</p>
       </div>
       <Link href="/news">Go to News Page</Link>
+      <Link href="/login">Login</Link>
+      <Link href="/account">Account Settings</Link>
     </main>
   );
 }

@@ -2,7 +2,7 @@ import { login, signup } from './actions'
 
 export default function LoginPage() {
   return (
-    <body className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-center">
       <p className='text-xl'>Login/Signup</p>
       <form className='p-24 flex flex-col items-center justify-center'>
       <label htmlFor="email">Email:</label>
@@ -12,7 +12,7 @@ export default function LoginPage() {
       <button formAction={login}>Log in</button>
       <button formAction={signup}>Sign up</button>
       </form>
-    </body>
+    </div>
     
   )
 }

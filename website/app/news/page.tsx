@@ -35,8 +35,7 @@ export default function News() {
 
   const handleClick = (link: string) => {
     if (link) {
-      window.open(link, '_blank'); // Opens the link in a new tab
-      // Alternatively, you can use window.location.href = link; to open in the same tab
+      window.open(link, '_blank'); 
     }
   };
 

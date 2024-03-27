@@ -10,19 +10,9 @@ export default async function account() {
     redirect('/error')
   }
 
-  async function logout() { 
-    const { error } = await supabase.auth.signOut()
-  }
-
   return (
     <>
     <p>Hello {data.user.email}</p>
-    <button onClick={logout}>Sign Out</button>
     </>
-    
   )
-    
-  
-  
-
 }

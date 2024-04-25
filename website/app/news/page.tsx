@@ -1,9 +1,5 @@
-'use client';
-import { useState, useEffect } from 'react';
-import Image from 'next/image';
-
-interface NewsItem {
-  // Define the type of each sub-element here
+//Define what types the subcategories of Post are
+type Post = {
   source: string;
   link: string;
   author: string;
@@ -13,47 +9,42 @@ interface NewsItem {
   media_content: string;
   media_credit: string;
   title: string;
-  id: number;
+  element_id: number;
 }
 
-export default function News() {
-  const [data, setData] = useState<NewsItem[] | null>(null);
+//function to change the dateformat to basically timeAgo
+function timeAgo(dateString: string): string {
+  const past = new Date(dateString);
+  const now = new Date();
+  const diffInSeconds = Math.floor((now.getTime() - past.getTime()) / 1000);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch('https://bucket-tech-news.s3.eu-north-1.amazonaws.com/articles.json');
-        const fetchedData: NewsItem[] = await response.json();
-        setData(fetchedData);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+  if (diffInSeconds < 60) {
+    return `${diffInSeconds} seconds ago`;
+  } else if (diffInSeconds < 3600) {
+    return `${Math.floor(diffInSeconds / 60)} minutes ago`;
+  } else if (diffInSeconds < 86400) {
+    return `${Math.floor(diffInSeconds / 3600)} hours ago`;
+  } else {
+    return `${Math.floor(diffInSeconds / 86400)} days ago`;
+  }
+}
 
-    fetchData();
-  }, []);
 
-  const handleClick = (link: string) => {
-    if (link) {
-      window.open(link, '_blank'); // Opens the link in a new tab
-      // Alternatively, you can use window.location.href = link; to open in the same tab
-    }
-  };
+async function news() {
+  const postsData = await getPosts();
 
   return (
     <div className="flex flex-row flex-wrap min-h-screen items-center justify-center">
-      {data ? (
-        data.map((element) => (
+      {postsData.posts ? (
+        postsData.posts.map((post : Post) => (
           <div
-            key={element.id}
-            className="m-4 w-96 rounded-md flex items-center flex-col justify-center"
-            onClick={() => handleClick(element.link)}
-            style={{ cursor: 'pointer' }}
+            key={post.element_id}
+            className="m-4 w-96 rounded-md flex flex-col justify-center"
           >
             <div>
-              <p className="text-lg font-bold">{element.title}</p>
-              <p className="font-extralight">Source: {element.source}</p>
-              <p className="font-extralight">{element.pubDate}</p>
+              <a className="text-lg font-bold" href={post.link} target="_blank" rel="noopener noreferrer" style={{ cursor: 'pointer' }}>{post.title}</a>
+              <p className="font-extralight">Source: {post.source}</p>
+              <p className="font-extralight">{timeAgo(post.pubDate)}</p>
             </div>
           </div>
         ))
@@ -63,3 +54,18 @@ export default function News() {
     </div>
   );
 }
+
+async function getPosts(): Promise<{ posts: Post[] }> {
+  try {
+    const res = await fetch('https://bucket-tech-news.s3.eu-north-1.amazonaws.com/articles.json');
+    const posts = await res.json();
+    return { posts } // Return an object with the resolved posts array
+  } catch (error) {
+    console.error("Error fetching posts:", error);
+    return { posts: [] }; // Return an empty array in case of errors
+  }
+}
+
+
+
+export default news

@@ -35,7 +35,6 @@ async function news() {
 
   return (
     <div className="flex flex-row flex-wrap min-h-screen items-center justify-center">
-      <a href="/" className="fixed top-2 left-2">Back to Home</a>
       {postsData.posts ? (
         postsData.posts.map((post : Post) => (
           <div

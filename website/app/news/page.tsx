@@ -1,3 +1,7 @@
+import NewsFilter from "@/components/NewsFilter";
+import { Source } from "@/types/source.type";
+import Link from "next/link";
+
 //Define what types the subcategories of Post are
 type Post = {
   source: string;
@@ -10,10 +14,6 @@ type Post = {
   media_credit: string;
   title: string;
   element_id: number;
-}
-
-type NewsProps = {
-  posts: Post[];
 }
 
 //function to change the dateformat to basically timeAgo
@@ -34,46 +34,57 @@ function timeAgo(dateString: string): string {
 }
 
 
-async function news() {
+type NewsProps = {
+  searchParams: {
+    source: Source | undefined;
+  };
+};
 
-  const posts = await getPosts()
+
+const sourceToHuman = {
+  theguardian: "Technology | The Guardian",
+  bbcnews: "BBC News",
+  techcrunch: "TechCrunch",
+  wired: "Wired"
+};
+
+async function News({ searchParams: { source } }: NewsProps) { 
+
+  const posts = await getPosts();
 
   return (
-    <div className="flex flex-row flex-wrap min-h-screen items-center justify-center">
-      <form>
-        <label>Choose your source:</label>
-        <select id="source" name="source" className="bg-black">
-          <option value="all">All</option>
-          <option value="techcrunch">TechCrunch</option>
-          <option value="wired">Wired</option>
-          <option value="theguardian">The Guardian</option>
-          <option value="bbcnews">BBC News</option>
-        </select>
-      </form>
+    <div className="flex flex-col min-h-screen items-center justify-center">
+      
+      <Link href="/">Go back to home</Link>
+      <NewsFilter value={source}/>
 
-      {posts ? (
-        posts.map((post: Post) => (
-          <div
-            key={post.element_id}
-            className="m-4 w-96 rounded-md flex flex-col justify-center"
-          >
-            <div>
-              <a className="text-lg font-bold" href={post.link} target="_blank" rel="noopener noreferrer" style={{ cursor: 'pointer' }}>{post.title}</a>
-              <p className="font-extralight">Source: {post.source}</p>
-              <p className="font-extralight">{timeAgo(post.pubDate)}</p>
+      <div className="flex flex-row flex-wrap items-center justify-center">
+        {posts ? (
+          posts.filter((post) => !!source ? source !== "all" ? post.source === sourceToHuman[source] : true : true).map((post) => (
+            <div
+              key={post.element_id}
+              className="m-4 w-96 rounded-md flex flex-col justify-center"
+            >
+              <div>
+                <a className="text-lg font-bold" href={post.link} target="_blank" rel="noopener noreferrer" style={{ cursor: 'pointer' }}>{post.title}</a>
+                <p className="font-extralight">Source: {post.source}</p>
+                <p className="font-extralight">{timeAgo(post.pubDate)}</p>
+              </div>
             </div>
-          </div>
-        ))
-      ) : (
-        <p>Loading...</p>
-      )}
+          ))
+        ) : (
+          <p>Loading...</p>
+        )}
+      </div>
+
+      
     </div>
   );
 }
 
 async function getPosts() {
   const res = await fetch('https://bucket-tech-news.s3.eu-north-1.amazonaws.com/articles.json', { next: { revalidate: 1800 } })
-  const posts = await res.json()
+  const posts: Post[] = await res.json()
   
   
   if (!res.ok) {
@@ -86,4 +97,4 @@ async function getPosts() {
 
 
 
-export default news
+export default News;

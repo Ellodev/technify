@@ -71,7 +71,7 @@ async function news() {
   );
 }
 
-export async function getPosts() {
+async function getPosts() {
   const res = await fetch('https://bucket-tech-news.s3.eu-north-1.amazonaws.com/articles.json', { next: { revalidate: 1800 } })
   const posts = await res.json()
   

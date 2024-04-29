@@ -9,7 +9,7 @@ export default async function Home() {
       </Link>
       <div className="flex-col relative flex place-items-center">
         <p className="text-[72px]">technify</p>
-        <p>Your Tech-News aggregator. Free and <a href="https://github.com/Ellodev/tech-news" className="underline">Open Source</a>.
+        <p>Your Tech-News aggregator. Free and <a href="https://github.com/Ellodev/technify" className="underline">Open Source</a>.
         </p>
         <Link className="underline text-indigo-400" href="/news">Bring me to the News.</Link>
       </div>

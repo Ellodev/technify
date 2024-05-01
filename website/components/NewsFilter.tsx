@@ -39,7 +39,7 @@ export default function NewsFilter({ value }: NewsFilterProps) {
 		<form>
 			<label>Choose your source:</label>
 
-			<select id="source" name="source" className="bg-black" value={source} onChange={(event) => handleChange(event.target.value as Source)}>
+			<select id="source" name="source" className="dark:bg-black" value={source} onChange={(event) => handleChange(event.target.value as Source)}>
 				<option value="all">All</option>
 				<option value="techcrunch">TechCrunch</option>
 				<option value="wired">Wired</option>

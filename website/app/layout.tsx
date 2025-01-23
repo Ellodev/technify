@@ -18,7 +18,6 @@ export default function RootLayout({
     <html lang="en">
     <head>
         <script defer src="https://ellostats.vercel.app/script.js" data-website-id="5433c551-3455-4409-b33f-c01922c3956a"></script>
-        <meta name="google-adsense-account" content="ca-pub-9271791507642184">
     </head>
       <body className={inter.className}>{children}</body>
     </html>

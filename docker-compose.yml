@@ -1,0 +1,33 @@
+services:
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    environment:
+      REFRESH_INTERVAL_MINUTES: "15"
+      MAX_ARTICLE_AGE_DAYS: "14"
+      # Set your own VAPID keys for stable push identity across volumes;
+      # otherwise a key pair is generated and persisted in the data volume.
+      # VAPID_PRIVATE_KEY: ""
+      # VAPID_SUBJECT: "mailto:you@example.com"
+    volumes:
+      - technify-data:/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/healthz')"]
+      interval: 30s
+      timeout: 5s
+      start_period: 10s
+
+  web:
+    build:
+      context: ./website
+      args:
+        API_URL: http://backend:8000
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
+
+volumes:
+  technify-data:

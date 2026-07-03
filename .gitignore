@@ -127,3 +127,8 @@ dist
 .pnp.*
 
 articles.json
+# backend
+backend/.venv/
+backend/data/
+backend/__pycache__/
+**/__pycache__/

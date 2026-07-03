@@ -1,12 +1,29 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
+import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 
 export const metadata: Metadata = {
-  title: "technify",
-  description: "Tech News Site",
+  title: "technify — your tech news, aggregated",
+  description:
+    "Free and open source tech news aggregator. The latest from TechCrunch, The Verge, Ars Technica, Wired, Hacker News and more — in one place.",
+  manifest: "/manifest.webmanifest",
+  icons: {
+    apple: "/icons/apple-touch-icon.png",
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "technify",
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f4f4f5" },
+    { media: "(prefers-color-scheme: dark)", color: "#09090b" },
+  ],
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({
@@ -16,10 +33,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-    <head>
-        <script defer src="https://ellostats.vercel.app/script.js" data-website-id="5433c551-3455-4409-b33f-c01922c3956a"></script>
-    </head>
-      <body className={inter.className}>{children}</body>
+      <body className="font-sans min-h-screen">
+        <ServiceWorkerRegister />
+        {children}
+      </body>
     </html>
   );
 }

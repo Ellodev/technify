@@ -1,0 +1,5 @@
+fastapi>=0.111,<1
+uvicorn[standard]>=0.30,<1
+feedparser>=6.0.11,<7
+pywebpush>=2.0,<3
+py-vapid>=1.9,<2
